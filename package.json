@@ -1,1 +1,11 @@
-# Project-A
+{
+  "name": "robot-society",
+  "version": "1.0.0",
+  "main": "society.js",
+  "scripts": {
+    "start": "node society.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.44.0"
+  }
+}
