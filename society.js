@@ -1,7 +1,7 @@
 const bedrock = require('bedrock-protocol');
 
-const HOST = process.env.MC_HOST || 'Amirali_Panahi5944.aternos.me';
-const PORT = parseInt(process.env.MC_PORT || '36000');
+const HOST = process.env.MC_HOST || 'play.hyperlandsmc.net';
+const PORT = parseInt(process.env.MC_PORT || '19132');
 
 class Citizen {
   constructor(name) {
